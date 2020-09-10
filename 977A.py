@@ -8,5 +8,3 @@ for i in range (k):
     else:
         n = n / 10
 print (int(n))
-
-    
